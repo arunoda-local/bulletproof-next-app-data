@@ -1,1 +1,17 @@
-[{"userId":"github-50838","name":"Arunoda Susiripala","avatar":"https://avatars1.githubusercontent.com/u/50838?v=4","content":"Hello comment.","createdAt":1596692135935}]
+[
+  {
+    "userId": "github-50838",
+    "name": "Arunoda Susiripala",
+    "avatar": "https://avatars1.githubusercontent.com/u/50838?v=4",
+    "content": "Hello comment.",
+    "createdAt": 1596692135935
+  },
+  {
+    "id": "b5KNzG-jXZVuIl1tXIPJ3FsjlQBgxV",
+    "userId": "github-50838",
+    "name": "Arunoda Susiripala",
+    "avatar": "https://avatars1.githubusercontent.com/u/50838?v=4",
+    "content": "This is cool",
+    "createdAt": 1596692149553
+  }
+]
